@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="part_of_url">"47b27544deee73b62c571bc1c24eede2"</string>
+</resources>
